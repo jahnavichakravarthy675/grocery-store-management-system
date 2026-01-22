@@ -1,4 +1,4 @@
-# grocery-store-management-system
+# Grocery-store-management-system
 🛒 Grocery Store Management Sales Analysis (SQL)
 
 
