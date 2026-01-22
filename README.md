@@ -1,5 +1,7 @@
 # grocery-store-management-system
 🛒 Grocery Store Management Sales Analysis (SQL)
+
+
 📌 Project Overview
 
 This project focuses on analyzing grocery store sales data using SQL to extract actionable business insights. The goal is to help store managers understand sales performance, customer behavior, and product trends to support data-driven decision-making.
